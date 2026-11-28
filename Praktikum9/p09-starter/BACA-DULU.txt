@@ -1,0 +1,8 @@
+LKP 09 - Singleton dan Builder
+
+1. Buka folder ini di VS Code: File -> Open Folder.
+2. Isi NIM Anda di src/shop/app/MyNim.java.
+3. Jalankan src/shop/app/ShopApp.java dan src/check/SelfCheck.java (klik Run di atas main).
+   Skor SelfCheck awal: 2/20.
+4. Jangan mengubah isi folder src/check.
+5. File di folder bahan/ baru disalin ke src/shop/demo/ saat LKP memintanya.
